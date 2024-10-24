@@ -1,0 +1,8 @@
+{
+  "name": "df-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "850223bd"
+}
